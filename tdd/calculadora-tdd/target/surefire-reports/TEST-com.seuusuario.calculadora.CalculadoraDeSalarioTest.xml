@@ -5,7 +5,7 @@
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="21.0.6+7-Ubuntu-124.10.1"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-21-openjdk-amd64/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/ali/fatec/calculadora-tdd"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/ali/fatec/nadalete/tdd/calculadora-tdd"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -14,7 +14,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/ali/fatec/calculadora-tdd"/>
+    <property name="user.dir" value="/home/ali/fatec/nadalete/tdd/calculadora-tdd"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="21.0.6+7-Ubuntu-124.10.1"/>
     <property name="os.arch" value="amd64"/>
